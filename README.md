@@ -1,6 +1,6 @@
 # Getting Started React-TypeScript-ESLint-Prettier-Husky Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [React TypeScript Starter](https://github.com/hotakanagamine/react-typescript-eslint-prettier-husky-starter).
 
 ## Available Scripts
 
